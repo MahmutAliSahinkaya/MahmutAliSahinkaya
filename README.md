@@ -1,3 +1,8 @@
+### Hello there! 🚀 I'm Mahmut
+
+- 🌱 I’m currently learning Java
+- 💬 Ask me about Java
+- 📫 How to reach me mahmutsahinkaya@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmutalisahinkaya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19351641) 
