@@ -52,8 +52,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MahmutAliSahinkaya&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahmutAliSahinkaya&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmutAliSahinkaya&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmutalisahinkaya&show_icons=true&locale=en&layout=compact" alt="mahmutalisahinkaya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutalisahinkaya&show_icons=true&locale=en" alt="mahmutalisahinkaya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmutalisahinkaya&" alt="mahmutalisahinkaya" /></p>
+
 
 <!--  -->
