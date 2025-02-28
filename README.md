@@ -54,7 +54,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmutalisahinkaya&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="mahmutalisahinkaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutalisahinkaya&show_icons=true&include_all_commits=true&count_private=true&since=<?php echo $currentYear; ?>-01-01&until=<?php echo $currentYear; ?>-12-31&locale=en&cache_seconds=1800" alt="mahmutalisahinkaya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmutalisahinkaya&show_icons=true&include_all_commits=true&count_private=true&since=2025-01-01&until=2025-12-31&locale=en&cache_seconds=1800" alt="mahmutalisahinkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmutalisahinkaya&" alt="mahmutalisahinkaya" /></p>
 
